@@ -14,14 +14,14 @@ public class Hello {
             System.out.println("i = " + i);
         }
 
-        To_me Xx = new To_me();
-        To_me Xy = new To_me();
+        toMe Xx = new toMe();
+        toMe Xy = new toMe();
 
         //Xx.setName("Higgins");
         //Xy.setName("Smith");
 
-        Xx.printname = "Wooo";
-        Xy.printname = "Hooo";
+        Xx.printname = "Wooo1";
+        Xy.printname = "Hooo1";
         Xx.tome();
         Xy.tome();
     }

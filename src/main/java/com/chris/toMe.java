@@ -1,6 +1,6 @@
 package com.chris;
 
-class To_me {
+class toMe {
 
     String printname;
 
