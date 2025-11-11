@@ -20,8 +20,8 @@ public class Hello {
         //Xx.setName("Higgins");
         //Xy.setName("Smith");
 
-        Xx.printname = "Wooo2";
-        Xy.printname = "Hooo2";
+        Xx.printname = "Wooo3";
+        Xy.printname = "Hooo3";
         Xx.tome();
         Xy.tome();
     }
